@@ -1,4 +1,4 @@
-## EX:2  UML Diagrams for library management system 
+## EX:2 Library management system 
 ### NAME: PRAKASH C
 ### REG NO: 212223240122
 ### DATE: 19.09.2024
